@@ -19,6 +19,8 @@ h1,p,button{
 .btn{
 	background-color:#ef574c;
 	border:none; 
+	color:white;
+	padding:10px;
 	border-radius:20px;
 	height:50px;
 	width:100px;
